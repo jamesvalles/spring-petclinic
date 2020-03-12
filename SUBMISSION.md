@@ -10,7 +10,7 @@ Link to Dockerfile: https://github.com/jamesvalles/spring-petclinic/blob/master/
 5 pts Your running docker instance as shown by a ps command.
 ![Screen Capture #7](images/hmk3pic2.png)
 
-![Screen Capture #7](images/hmk3pic2b.png)
+![Screen Capture #7](images/hmk8pic2b.png)
 
 
 5 pts Your browser accessing the main page of the website from your local container.
